@@ -1,4 +1,4 @@
-package com.cp.solutions.hackerearth.factorial;
+package com.cp.solutions.hackerearth.easy.factorial;
 
 import java.util.Scanner;
 

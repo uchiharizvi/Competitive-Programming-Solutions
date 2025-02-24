@@ -15,7 +15,9 @@ public class Solution {
             if (c == '(' || c == '{' || c == '[') {
                 stack.push(c);
             } else {
-                if (stack.isEmpty()) return false;
+                if (stack.isEmpty()) {
+                    return false;
+                }
 
                 char top = stack.pop();
                 if ((c == ')' && top != '(') ||

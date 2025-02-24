@@ -1,4 +1,4 @@
-package Easy;
+package com.cp.solutions.leetcode.easy.longestCommonPrefix;
 
 import java.util.Arrays;
 

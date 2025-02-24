@@ -1,4 +1,4 @@
-package Easy;
+package com.cp.solutions.leetcode.easy.romanToInteger;
 
 /**
  * Roman to Integer

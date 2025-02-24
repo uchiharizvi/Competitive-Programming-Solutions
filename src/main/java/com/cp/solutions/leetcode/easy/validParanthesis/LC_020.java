@@ -1,4 +1,4 @@
-package Easy;
+package com.cp.solutions.leetcode.easy.validParanthesis;
 /**Valid Parenthesis*/
 public class LC_020 {
     public static void main(String[] args) {
